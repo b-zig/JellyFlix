@@ -1066,8 +1066,7 @@ label.selectLabel {
 }
 
 .cardText {
-  opacity: 0;
-  transition: 0.2s;
+  opacity: 1 !important;
 }
 
 .card:hover .cardText,
